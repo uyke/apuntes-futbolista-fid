@@ -1,0 +1,1 @@
+Este "Cuaderno de Apuntes del Futbolista de FID" está licenciado según la `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_
