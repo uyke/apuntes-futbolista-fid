@@ -3,18 +3,30 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cuaderno de Apuntes del Futbolista de FID
-=========================================
-
-Contenido:
+Contenido
+=========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+
+   acerca
+   introduccion
+   fut-habilidades
+   fut-habilidades-aplicadas
+   fut-habilidades-posicion
+   fut-entrenamiento-planes
 
 
+Apéndices
+=========
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 1
+
+   tab-toc
+
+Indices y tablas
+================
 
 * :ref:`genindex`
 * :ref:`modindex`
