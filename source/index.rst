@@ -15,6 +15,7 @@ Contenido
    fut-habilidades-aplicadas
    fut-habilidades-posicion
    fut-entrenamiento-planes
+   fut-partido-fundamentos
 
 
 Apéndices
