@@ -1,6 +1,15 @@
 Productos de la tienda de futbolista
 ====================================
 
+Estos son los productos que un futbolista puede comprar. Cuando compro un producto obtengo un efecto en ciertas habilidades.
+
+- Solamente se puede tener un producto de cada tipo.
+- Para comprar productos debo transferir al banco dinero de mi sueldo. Se puede hacer una trasnferencia por día (que sustituye a un entrenamiento, es decir: o entreno o transfiero dinero) y el monto es 1/7 de mi salario.
+- Normalmente compro el producto más barato de un tipo, luego lo vendo para comprar el producto siguiente del mismo tipo.
+- Cuando vendo un producto obtengo la mitad del precio que me costó comprarlo.
+- El efecto se aplica inmediatamente hecha la compra del producto.
+
+
 +----------+-----------------------------+-------------------------+-----------+
 | Tipo     | Producto                    | Efecto                  | Precio    |
 +==========+=============================+=========================+===========+

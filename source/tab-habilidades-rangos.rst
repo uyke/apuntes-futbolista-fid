@@ -1,6 +1,8 @@
 Rangos de valores de habilidades
 ================================
 
+Estos son los niveles de las habilidades según su rango de valor. Solamente podemos ver el valor exacto de las habilidades de nuestros compañeros de equipo. De los futbolistas de otros equipos solamente vemos la descripción del nivel en cada una de sus habilidades.
+
 +--------------------+---------------+
 | Valor de habilidad | Nivel         |
 +====================+===============+
