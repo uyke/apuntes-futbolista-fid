@@ -1,12 +1,11 @@
 Habilidades del futbolista
 ==========================
 
-El futbolista tiene un conjunto de habilidades físicas, técnicas, mentales, de ataque y de portería. Son 28 habilidades, que tienen un valor entre 1 y 100.
-
-El valor de las habilidades determina en buena parte el resultado de una acción que el futbolista realice en el campo de juego.
-
+El futbolista tiene un conjunto de habilidades físicas, técnicas, mentales, de ataque y de portería. Son 28 habilidades, que tienen un valor entre 1 y 100. El valor de las habilidades determina en buena parte el resultado de una acción que el futbolista realice en el campo de juego.
 
 Las habilidades mejoran a medida que el futbolista se entrena durante su carrera hasta cierta edad alrededor de los 24 años. A medida que el futbolista envejece las habilidades se van deteriorando.
+
+Durante un partido las habilidades decrecen debido a la pérdida de condición física.  
 
 
 
@@ -225,4 +224,5 @@ Reflejos
 ^^^^^^^^
 
 Es una habilidad muy importante para el portero, que determina la rapidez que tendrá a la hora de  reaccionar y hacer una parada.
+
 
