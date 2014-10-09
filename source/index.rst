@@ -16,6 +16,7 @@ Contenido
    fut-habilidades-posicion
    fut-entrenamiento-planes
    fut-partido-fundamentos
+   fut-partido-turnos
    fut-pases
    fut-defensa
 
