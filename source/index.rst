@@ -11,49 +11,19 @@ Introducción
 
    acerca
    introduccion
+   personajes
 
 
-Las habilidades
-===============
-
-.. toctree::
-   :maxdepth: 1
-
-   fut-habilidades
-   fut-habilidades-aplicadas
-   fut-habilidades-posicion
-   fut-habilidades-mejora-perdida
-
-
-El entrenamiento
-================
+Apuntes para el futbolista
+==========================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   fut-entrenamiento-planes
-   fut-entrenamiento-grupal
-
-
-El partido
-==========
-
-.. toctree::
-   :maxdepth: 1
-
-   fut-partido-fundamentos
-   fut-partido-turnos
-   fut-partido-tacticas
-
-
-Maneras de jugar
-================
-
-.. toctree::
-   :maxdepth: 1
-
-   fut-pases
-   fut-defensa
+   fut-habilidades-toc
+   fut-entrenamiento-toc
+   fut-partido-toc
+   fut-guia-toc
 
 
 Apéndices
@@ -64,10 +34,8 @@ Apéndices
 
    tab-toc
 
-Indices y tablas
-================
+Búsqueda
+========
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 

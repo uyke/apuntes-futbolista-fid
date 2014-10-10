@@ -109,7 +109,7 @@ html_theme = 'agogo'
 #html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
-# "<project> v<release> documentation".
+# "<project> v<release>".
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
@@ -150,22 +150,22 @@ html_last_updated_fmt = '%d %m %Y'
 #html_additional_pages = {}
 
 # If false, no module index is generated.
-#html_domain_indices = True
+html_domain_indices = True
 
 # If false, no index is generated.
-#html_use_index = True
+html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
-#html_split_index = False
+html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-#html_show_sourcelink = True
+html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-#html_show_sphinx = True
+html_show_sphinx = True
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
-#html_show_copyright = True
+html_show_copyright = True
 
 # If true, an OpenSearch description file will be output, and all pages will
 # contain a <link> tag referring to it.  The value of this option must be the
@@ -262,8 +262,8 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Cuaderno de Apuntes del Futbolista de FID'
-epub_author = u'uyke - FIDA Uruguay'
-epub_publisher = u'uyke - FIDA Uruguay'
+epub_author = u'uyke'
+epub_publisher = u'Academia FIDA Uruguay'
 epub_copyright = u'2014, uyke - FIDA Uruguay'
 
 # The basename for the epub file. It defaults to the project name.
@@ -322,7 +322,7 @@ epub_exclude_files = ['search.html']
 #epub_max_image_width = 0
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
-#epub_show_urls = 'inline'
+epub_show_urls = 'inline'
 
 # If false, no index is generated.
-#epub_use_index = True
+epub_use_index = True

@@ -5,7 +5,8 @@ Acerca de este cuaderno
 	Apuntes del futbolista de FID
 
 :Autor:
-	`Uyke Makana <mailto:uykemakana@gmail.com?subject=apuntes-futbolista-fid-1.0.0>`_
+	`uyke <mailto:uykemakana@gmail.com?subject=apuntes-futbolista-fid-1.0.0>`_
+    Academia de FIDA Uruguay
 
 :Resúmen:
 	Este libro recopila guías y recomendaciones para que el futbolista de `Football Identity (FID) <http://footballidentity.com>`_ pueda aprender y mejorar su juego. Este documento no es un documento oficial de FID; no reemplaza al manual ni a la ayuda creada por los desarrolladores de FID. El material incluido ha sido obtenido de diversos autores, usuarios y foros de discusión. Se mencionan los autores cuando se los conoce.
