@@ -16,10 +16,14 @@ Este archivo README explica lo que se necesita para usar este repositorio.
 
 * Descargar de la sección Downloads el build más reciente, es un archivo comprimido con el libro ya construído.
 
+https://bitbucket.org/uyke/apuntes-futbolista-fid/downloads
+
 ### Cómo contribuir ###
 
 * Descargar y leer el cuaderno.
-* Proponer mejoras o agregados en la sección Issues.
+* Proponer mejoras o agregados en la sección Issues, usar Create issue.
+
+https://bitbucket.org/uyke/apuntes-futbolista-fid/issues
 
 ### ¿Con quién puedo contactar? ###
 
