@@ -3,10 +3,10 @@ Habilidades fundamentales por posición
 
 Según la posición del futbolista en el campo, se recomiendan algunas habilidades fundamentales que son genéricas para la posición.
 
-Luego el futbolista se irá especializando mediante el entrenamiento para adoptar su perfil propio. Por ejemplo, un delantero puede agregar regate a sus habilidades o un mediocampista central puede perfilarse a ser entrador (más defensivo) o regateador (más ofensivo).
+Luego el futbolista se irá especializando mediante el entrenamiento para adoptar su perfil propio. Por ejemplo, un delantero puede agregar regate a sus habilidades o un mediocentro puede perfilarse a ser entrador (más defensivo) o regateador (más ofensivo).
 
-Portero
--------
+Portero (POR)
+-------------
 
 - Velocidad
 - Reflejos
@@ -14,8 +14,8 @@ Portero
 - Agilidad
 - Colocación de portería
 
-Defensor lateral
-----------------
+Defensa lateral (DfL)
+---------------------
 
 - Velocidad
 - Aceleración
@@ -23,8 +23,8 @@ Defensor lateral
 - Entrada
 - Aplomo
 
-Defensor central
-----------------
+Defensa central (DfC)
+---------------------
 
 - Velocidad
 - Aceleración
@@ -34,8 +34,8 @@ Defensor central
 - Salto
 - Equilibrio
 
-Mediocampista lateral
----------------------
+Medio lateral (ML)
+------------------
 
 - Velocidad
 - Aceleración
@@ -43,8 +43,8 @@ Mediocampista lateral
 - Control de balón
 - Agilidad
 
-Mediocampista central
----------------------
+Mediocentro (MC), Mediocampista defensivo (MCD) y Mediocampista ofensivo (MCO)
+------------------------------------------------------------------------------
 
 - Velocidad
 - Visión
@@ -53,8 +53,8 @@ Mediocampista central
 - Control de balón
 - Fuerza
 
-Delantero
----------
+Delantero centro (DC) y Delantero lateral (DL)
+----------------------------------------------
 
 - Velocidad
 - Aceleración
