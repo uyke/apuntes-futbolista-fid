@@ -136,7 +136,8 @@ html_static_path = ['_static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-html_last_updated_fmt = '%d %m %Y'
+#html_last_updated_fmt = '%d %m %Y'
+html_last_updated_fmt = ''
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
@@ -150,16 +151,16 @@ html_last_updated_fmt = '%d %m %Y'
 #html_additional_pages = {}
 
 # If false, no module index is generated.
-html_domain_indices = True
+html_domain_indices = False
 
 # If false, no index is generated.
-html_use_index = True
+html_use_index = False
 
 # If true, the index is split into individual pages for each letter.
 html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-html_show_sourcelink = True
+html_show_sourcelink = False
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = True
@@ -273,11 +274,11 @@ epub_copyright = u'2014, uyke - FIDA Uruguay'
 # for small screen space, using the same theme for HTML and epub output is
 # usually not wise. This defaults to 'epub', a theme designed to save visual
 # space.
-#epub_theme = 'epub'
+epub_theme = 'epub'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
-#epub_language = ''
+epub_language = 'es'
 
 # The scheme of the identifier. Typical schemes are ISBN or URL.
 #epub_scheme = ''
@@ -307,7 +308,7 @@ epub_copyright = u'2014, uyke - FIDA Uruguay'
 epub_exclude_files = ['search.html']
 
 # The depth of the table of contents in toc.ncx.
-#epub_tocdepth = 3
+epub_tocdepth = 2
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
@@ -325,4 +326,4 @@ epub_exclude_files = ['search.html']
 epub_show_urls = 'inline'
 
 # If false, no index is generated.
-epub_use_index = True
+epub_use_index = False
