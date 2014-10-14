@@ -4,7 +4,7 @@ Mejora y pérdida de habilidades
 Mejoramiento de las habilidades
 -------------------------------
 
-Las habilidades se mejoran mediante el entrenamiento y la compra de productos de la tienda del futbolista. Ver los detalles en dichas secciones.
+Las habilidades se mejoran mediante el entrenamiento y la compra de productos de la tienda del futbolista.
 
 
 Pérdida de habilidades
@@ -13,9 +13,13 @@ Pérdida de habilidades
 Las habilidades pueden disminuír por diversos factores, algunos son deterioros permanentes y otros son temporales durante un partido:
 
 **- Deterioro natural (permanente).** Aproximadamente a partir de los 24 años el futbolista envejece y sus habilidades se van deteriorando.
-**- Disminución por condición física en un partido (temporal). **Las habilidades se deterioran durante el partido solamente, debido al cansancio del jugador.
+
+**- Disminución por condición física en un partido (temporal).** Las habilidades se deterioran durante el partido solamente, debido al cansancio del jugador.
+
 **- Disminución por baja confianza (temporal).** Las habilidades se deterioran durante el partido solamente, debido a pérdida de confianza del jugador.
-**- Penalización por jugar fuera de posición (temporal). **Cuando un futbolista es asignado a una posición táctica que no coincide con su posición natural (o adicional) juega el partido con sus habilidades disminuídas.
+
+**- Penalización por jugar fuera de posición (temporal).** Cuando un futbolista es asignado a una posición táctica que no coincide con su posición natural (o adicional) juega el partido con sus habilidades disminuídas.
+
 **- Penalización química (temporal).** Por diversos factores un futbolista puede jugar con habilidades disminuídas debido a la "química". Por ejemplo, cuando juega su primer partido en el equipo, o cuando todo el equipo está "penalizado químicamente" debido a una gran cantidad de transferencias de futbolistas.
 
 La condición física es la responsable del rendimiento del futbolista en el campo y sigue las siguientes reglas de disminución en los valores: 
