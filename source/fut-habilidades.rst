@@ -5,7 +5,7 @@ El futbolista tiene un conjunto de habilidades físicas, técnicas, mentales, de
 
 Las habilidades mejoran a medida que el futbolista se entrena durante su carrera hasta cierta edad alrededor de los 24 años. A medida que el futbolista envejece las habilidades se van deteriorando.
 
-Durante un partido las habilidades decrecen debido a la pérdida de condición física.  
+Durante un partido las habilidades pueden verse afectadas negativamente, en forma temporal durante el partido, debido a la pérdida de la condición física, de la confianza o debido a penalización química. Ver: :doc:`fut-habilidades-mejora-perdida`
 
 
 
