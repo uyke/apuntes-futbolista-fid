@@ -12,17 +12,17 @@ Las posiciones posibles según las zonas del campo son:
    - Portero (POR)
 
 - Zona de defensa
-   - Defensor central (DfC)
-   - Defensor lateral (DfL)
+   - Defensa central (DfC)
+   - Defensa lateral (DfL)
 
 - Zona de mediocampo
-   - Mediocampista central (MC)
+   - Mediocentro (MC)
    - Mediocampista central defensivo (MCD)
    - Mediocampista central ofensivo (MCO)
-   - Mediocampista lateral (ML)
+   - Medio lateral (ML)
 
 - Zona de ataque
-   - Centrodelantero (CD)
+   - Delantero centro (DC)
    - Delantero lateral (DL)
 
 
@@ -44,7 +44,9 @@ Posiciones y penalización por jugar fuera de posición
 Vamos a mencionar las siguientes posiciones de juego:
 
 **- Posición natural.** Es la posición que se le asignó al futbolista al ser creado. En esta posición es donde el futbolista tiene su mejor desempeño.
+
 **- Posición adicional.** Son las posiciones extras que el futbolista entrenó. Una posición extra de nivel 5 estrellas equivale a una posición natural.
+
 **- Posición táctica.** Es la posición del futbolista dentro de una formación táctica en el partido.
 
 Cuando creamos un futbolista, entre otras cosas elegimos su posición (le decimos "posición natural") y además con entrenamiento de posiciones adicionales podemos lograr que un futbolista pueda jugar en una "posición adicional" a su posición natural.

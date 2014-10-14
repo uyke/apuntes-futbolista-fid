@@ -26,7 +26,7 @@ Cómo entrenar a un portero:
 #. P1 y P2 hasta el máximo
 
 
-Entrenamiento de defensores centrales
+Entrenamiento de defensas centrales
 -------------------------------------
 
 - P1: Velocidad / Aceleración / Salto / Equilibrio.
@@ -34,7 +34,7 @@ Entrenamiento de defensores centrales
 - P3: Agilidad / Anticipación.
 - P4: Bloqueo / Pases Altos / Pases Bajos / Cabecear.
 
-Cómo entrenar a un defensor central:
+Cómo entrenar a un defensa central:
 
 #. Vigor hasta 61
 #. P1 hasta 61
@@ -47,15 +47,15 @@ Cómo entrenar a un defensor central:
 #. P4 hasta 41
 
 
-Entrenamiento de defensores laterales
--------------------------------------
+Entrenamiento de defensas laterales
+-----------------------------------
 
 - P1: Velocidad / Aceleración / Salto / Equilibrio.
 - P2: Entradas / Colocación Defensiva / Aplomo / Fuerza.
 - P3: Agilidad / Anticipación.
 - P4: Bloqueo / Pases Altos / Pases Bajos / Cabecear.
 
-Cómo entrenar a un defensor lateral:
+Cómo entrenar a un defensa lateral:
 
 #. Vigor hasta 61
 #. P1 hasta 61
@@ -68,15 +68,15 @@ Cómo entrenar a un defensor lateral:
 #. P4 hasta 51
 
 
-Entrenamiento de mediocampistas laterales
------------------------------------------
+Entrenamiento de medios laterales
+---------------------------------
 
 - P1: Velocidad / Aceleración / Regate / Control.
 - P2: Pases Altos / Efecto / Fuerza.
 - P3: Visión / Agilidad / Aplomo.
 - P4: Anticipación / Un Toque / Equilibrio.
 
-Cómo entrenar a un mediocamposta lateral:
+Cómo entrenar a un medio lateral:
 
 #. Vigor hasta 61
 #. P1 hasta 61
@@ -89,14 +89,14 @@ Cómo entrenar a un mediocamposta lateral:
 #. P4 hasta 51
 
 
-Entrenamiento de mediocampistas defensivos
-------------------------------------------
+Entrenamiento de mediocentros (perfil defensivo)
+------------------------------------------------
 
 - P1: Aceleración / Pases Altos / Salto / Equilibrio / Pases Bajos.
 - P2: Colocación Defensiva / Aplomo / Fuerza / Velocidad / Visión.
 - P3: Agilidad / Anticipación / Entradas / Bloqueo.
 
-Cómo entrenar a un mediocampista defensivo:
+Cómo entrenar a un mediocampista con perfil defensivo:
 
 #. Vigor hasta 61
 #. P1 hasta 61
@@ -107,15 +107,15 @@ Cómo entrenar a un mediocampista defensivo:
 #. P3 hasta 61
 
 
-Entrenamiento de mediocampistas ofensivos
------------------------------------------
+Entrenamiento de mediocentros (perfil ofensivo)
+-----------------------------------------------
 
 - P1: Aceleración / Pases Altos / Pases Bajos / Visión / Efecto.
 - P2: Colocación Ofensiva / Salto / Equilibrio / Velocidad.
 - P3: Aplomo / Fuerza / Regate / Control.
 - P4: Anticipación / Un Toque / Agilidad.
 
-Cómo entrenar a un mediocampista ofensivo:
+Cómo entrenar a un mediocampista con perfil ofensivo:
 
 #. Vigor hasta 61
 #. P1 hasta 61 
@@ -135,7 +135,7 @@ Entrenamiento de delanteros centros y extremos
 - P3: Aplomo / Fuerza / Salto.
 - P4: Regate / Control / Anticipación / Agilidad / Un Toque.
 
-Cómo entrenar a un delentero:
+Cómo entrenar a un delantero:
 
 #. Vigor hasta 61
 #. P1 hasta 61 
