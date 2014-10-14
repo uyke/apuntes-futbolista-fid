@@ -18,11 +18,11 @@ Desplazarse con el balón
 Hacer un pase bajo
 ------------------
 
- - Pase bajo
- - Visión
- - Efecto
- - Control
- - Agilidad
+- Pase bajo
+- Visión
+- Efecto
+- Control
+- Agilidad
 
 
 Hacer un pase alto
