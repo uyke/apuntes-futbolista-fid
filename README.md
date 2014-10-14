@@ -12,6 +12,9 @@ Este archivo README explica lo que se necesita para usar este repositorio.
 
 * Ver en la sección Source los archivos README para Linux y para Windows.
 
+https://bitbucket.org/uyke/apuntes-futbolista-fid/src
+
+
 ### ¿Qué debo hacer para solamente leer el cuaderno? ###
 
 * Descargar de la sección Downloads el build más reciente, es un archivo comprimido con el libro ya construído.
@@ -21,10 +24,13 @@ https://bitbucket.org/uyke/apuntes-futbolista-fid/downloads
 ### Cómo contribuir ###
 
 * Descargar y leer el cuaderno.
+
+https://bitbucket.org/uyke/apuntes-futbolista-fid/downloads
+
 * Proponer mejoras o agregados en la sección Issues, usar Create issue.
 
 https://bitbucket.org/uyke/apuntes-futbolista-fid/issues
 
 ### ¿Con quién puedo contactar? ###
 
-* Con el administrador/dueño de este repositorio (uyke).
+* Con el administrador/dueño de este repositorio (uykemakana@gmail.com)
