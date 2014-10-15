@@ -10,7 +10,7 @@ Cuando defendemos, hacemos presión al posicionarnos muy cerca de un rival al mo
 
 Es decir que si no estamos en condiciones de hacerle una entrada al rival, al menos debemos pararnos muy cerca (incluso encima) de él.
 
-Lo mismo aplica cuando atacamos, si estamos bajo presión siempre es mejor intentar pasar el balón a un compañero libre antes que disparar.
+Lo mismo aplica cuando atacamos, si estamos bajo presión siempre podemos intentar pasar el balón a un compañero libre que pueda disparar.
 
 
 Entradas defensivas
