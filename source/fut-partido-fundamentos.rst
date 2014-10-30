@@ -22,17 +22,15 @@ Si el rival tiene más habilidades que yo, lo recomendado es hacer una entrada d
 
 Cuando ataco, si evito una entrada del rival, él no podrá hacerme una entrada nueva en el turno siguiente. Entonces podré correr libremente (pero evitando que otro rival me haga una entrada).
 
-Como norma general debo intentar hacer la entrada lo más tarde posible y con inercia cero. Si tarigo demasiada inercia posiblemente mi entrada fallará.
+Como norma general debo intentar hacer la entrada lo más tarde posible y con inercia cero. Si vengo con demasiada inercia posiblemente mi entrada fallará.
 
  
 Acciones directas
 -----------------
 
-Las acciones directas tienen dos ventajas y una desventaja. Una acción directa nos da más chance de ganar una lucha por el balón. Además da menos tiempo para actuar en el turno siguiente.
+Una acción directa nos da más chance de ganar una lucha por el balón. Además da menos tiempo para actuar en el turno siguiente. Por ejemplo, si soy atacante y hago un cabezazo directo a un solo toque, el portero tendrá menos tiempo para reaccionar y le será más difícil atajar mi disparo.
 
-Por ejemplo, si soy atacante y hago un cabezazo directo a un solo toque, el portero tendrá menos tiempo para reaccionar y le será más difícil atajar mi disparo.
-
-La desventaja es que las acciones directas tienen menos precisión, dependiendo del valor que tengo en la habilidad Un Toque. Un jugador con valor bajo en dicha habilidad tendrá menos precisión al ejecutar una acción directa. De todas formas, en situación defensiva, si dentro de mi área debo despejar el balón lejos, puedo hacer una acción directa aunque sea sin precisión pues el objetivo es alejar el balón del área.
+La desventaja de las acciones directas es que tienen menos precisión, dependiendo del valor que tengo en la habilidad Un Toque. Un jugador con valor bajo en dicha habilidad tendrá menos precisión al ejecutar una acción directa. De todas formas, en situación defensiva, si dentro de mi área debo despejar el balón lejos, puedo hacer una acción directa aunque sea sin precisión (pues el objetivo es alejar el balón del área aunque sea a cualquier parte).
 
  
 Duración de los turnos
