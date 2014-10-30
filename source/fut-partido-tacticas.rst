@@ -26,10 +26,12 @@ Las posiciones posibles según las zonas del campo son:
    - Delantero lateral (DL)
 
 
-Roles fijos
------------
+Roles fijos del futbolista
+--------------------------
 
-Un futbolista durante el partido puede tener asignado un rolo fijo, por ejemplo capitán o lanzador de penales. Esos roles los asigna el mánager al establecer una formación táctica y pueden ser alterados durante el partido. Los roles que se pueden asignar a los futbolistas son:
+Durante el partido, un futbolista puede tener un rol fijo, por ejemplo capitán o lanzador de penales. Esos roles los asigna el mánager al establecer una formación táctica y pueden ser modificados durante el partido. Por ejemplo, un futbolista A puede ser el lanzador de penales durante el primer tiempo y en el segundo tiempo será el futbolista B quien lo haga.
+
+Los roles que se pueden asignar a los futbolistas son:
 
 - Capitán del equipo
 - Encargado de lanzar tiros penales
