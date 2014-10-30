@@ -3,7 +3,7 @@ Sueldo máximo según edad
 
 Estos son los sueldos máximos que se permite en los contratos según la edad del futbolista. Que el mánager de un equipo pueda pagar el máximo a todos sus futbolistas depende de la cantidad de futbolistas en el plantel, sus edades y el presupuesto semanal que dispone el equipo.
 
-Comno regla práctica general de muchos mánagers, todos los equipos, dentro de sus posibilidades económicas, pagan el sueldo máximo a los futbolistas de 18 a 21 años. El restante del presupuesto semanal se divide en partes iguales entre todos los futbolistas mayores de 21 años.
+Como regla práctica general usada por varios mánagers, todos los equipos, dentro de sus posibilidades económicas, pagan el sueldo máximo a los futbolistas de 18 a 21 años. El resto del presupuesto semanal se divide en partes iguales entre todos los futbolistas mayores de 21 años.
 
 +------+---------------+
 | Edad | Sueldo máximo |
